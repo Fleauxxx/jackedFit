@@ -35,6 +35,7 @@ const typeDefs = gql`
     addReview(reviewText: String!): Review
     removeReview(reviewId: ID!): Review
   }
+  
 `;
 
 module.exports = typeDefs;
