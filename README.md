@@ -29,5 +29,5 @@ So that I can browse gym gear, view workouts, leave reviews about the gym and bo
 
 Github -- https://github.com/Fleauxxx/jackedFit
 
-Heroku -- 
+Heroku -- https://jackedfitness.herokuapp.com/
 
