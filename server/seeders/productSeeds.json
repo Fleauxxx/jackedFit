@@ -1,0 +1,28 @@
+[
+    {
+        "name": "backpack",
+        "price": 25.00,
+        "quantity": 60
+    },
+    {
+        "name": "shirt",
+        "price": 15.00,
+        "quantity": 150
+    },
+    {
+        "name": "sweatpants",
+        "price": 15.00,
+        "quantity": 75
+    },
+    {
+        "name": "water bottle",
+        "price": 10.00,
+        "quantity": 110
+    },
+    {
+        "name": "key chain",
+        "price": 7.50,
+        "quantity": 200
+    }
+
+]

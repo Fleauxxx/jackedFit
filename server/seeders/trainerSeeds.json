@@ -1,0 +1,34 @@
+[
+    {
+      "name": "Brandon Dawson",
+      "specialty": "fat loss",
+      "officeHours": "9am - 5pm",
+      "rate": "50per hour"
+    },
+    {
+      "name": "Zuranie Thompson",
+      "specialty": "core strength",
+      "officeHours": "12pm - 5pm",
+      "rate": "40per hour"
+    },
+    {
+      "name": "Kelly Foster",
+      "specialty": "glutes",
+      "officeHours": "3pm - 6pm",
+      "rate": "30per hour"
+    },
+    {
+      "name": "Zack Williams",
+      "specialty": "strength trainer",
+      "officeHours": "9am - 5pm",
+      "rate": "60per hour"
+    },
+    {
+      "name": "Ron Therman",
+      "specialty": "strength trainer",
+      "officeHours": "9am - 5pm",
+      "rate": "55per hour"
+    }
+   
+  ]
+  
