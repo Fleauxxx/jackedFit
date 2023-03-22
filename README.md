@@ -24,6 +24,11 @@ So that I can browse gym gear, view workouts, leave reviews about the gym and bo
 
 ![Screenshot (56)](https://user-images.githubusercontent.com/111618393/226944012-7b7ca253-2e45-4951-abd2-bd4a9d767960.png)
 
+### Database
+
+![Screenshot (57)](https://user-images.githubusercontent.com/111618393/226951382-7ece5ce6-b857-493e-85da-e0c03911e640.png)
+
+
 
 ### Links
 
